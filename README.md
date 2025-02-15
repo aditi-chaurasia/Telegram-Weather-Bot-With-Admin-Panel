@@ -75,27 +75,13 @@ MONGO_URI=mongodb+srv://your_mongodb_uri
 API_KEY=your_weather_api_key
 PORT=5000
 
-4️.To Start the Server and see the result on telegram follow these instructions:
-(https://www.kapwing.com/videos/67b0e882b51e93fa99c169df)
+4️.To start the Server and see the result on telegram follow these instructions:
+https://www.kapwing.com/videos/67b0e882b51e93fa99c169df
 
 
-5.To start the backend:
-C:\
-└── Users
-    └── Admin
-        └── Desktop
-            └── aditi
-                └── Telegram-Weather-Bot
-                    └── telegram-bot-project
-                        ├── src
-                        │   ├── weatherBot.js
-                        │   ├── (other source files)
-                        ├── package.json
-                        ├── package-lock.json
-                        ├── node_modules
-                        ├── .gitignore
-                        ├── README.md
-                        └── (other project files)
+5.To start the Frontend and Backend:
+https://www.kapwing.com/videos/67b0ece26d82fb8be196e9a7
+
 
 The bot will now be running and listening for messages.
 
