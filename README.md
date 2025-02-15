@@ -12,39 +12,6 @@ The Telegram Weather Bot is a chatbot built using NestJS, Telegraf.js, and Mongo
 
 - 📝 Store user details in MongoDB.
 
-- 🌍 Cross-Origin Resource Sharing (CORS) enabled.
-
-📂 Project Structure
-Telegram-Weather-Bot
-client/
-├── src/
-│   ├── components/         # Reusable UI components
-│   ├── pages/              # Page-level components
-│   ├── context/            # Context API for state management
-│   ├── services/           # API interaction (Axios)
-│   ├── App.tsx             # Main application file
-│   ├── main.tsx            # React root entry
-├── public/                 # Static assets
-├── .env                    # Environment variables
-├── package.json            # Dependencies
-
-telegram-bot-project/
-├── src/
-│   ├── main.ts        # Main entry file
-│   ├── app.module.ts  # Main module
-│   ├── telegram.bot.ts  # Telegram Bot logic
-│   ├── admin-panel/
-│   │   ├── user-management/
-│   │   │   ├── user-management.service.ts  # User management logic
-│   │   ├── app.module.ts  # Admin module
-│   ├── config/
-│   │   ├── config.module.ts  # Configuration settings
-├── package.json
-├── .env  # Environment variables
-├── README.md  # Project documentation
-
-🛠️ Installation & Setup
-
 ## ✨ Prerequisites
 
 - Make sure you have the following installed:
