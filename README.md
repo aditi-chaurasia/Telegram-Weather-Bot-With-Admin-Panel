@@ -79,7 +79,7 @@ PORT=5000
 https://www.kapwing.com/videos/67b0e882b51e93fa99c169df
 
 
-5.To start the Frontend and Backend:
+5.To start the Frontend and Backend follow these instructions:
 https://www.kapwing.com/videos/67b0ece26d82fb8be196e9a7
 
 
